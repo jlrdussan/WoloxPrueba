@@ -1,0 +1,58 @@
+{
+  "select": {
+    "spanish": "Español",
+    "english": "Ingles"
+  },
+  "navBar": {
+    "home": "Inicio",
+    "benefits": "Beneficios",
+    "pokemon": "Pokemon",
+    "login": "Iniciar sesión"
+  },
+  "home": {
+    "section1": {
+      "text1": "Bienvenido a tu",
+      "text2": "Entrevista Técnica",
+      "text3": "en"
+    },
+    "section3": {
+      "btn": "Siguenos"
+    },
+    "section4": {
+      "text1": "Trabajamos para",
+      "text2": "convertir",
+      "text3": "ideas",
+      "text4": "en ",
+      "text5": "productos"
+    }
+  },
+  "benefits": {
+    "title": "Entre los beneficios que ofrecemos se encuentran",
+    "benefits": {
+      "1": "Flexibilidad Horaria",
+      "2": "Home Office",
+      "3": "Capacitaciones y workshops",
+      "4": "Snacks, frutas y bebidas gratis",
+      "5": "Semana Remota",
+      "6": "Trabajar en ultimas tecnologias"
+    },
+    "titleTank": {
+      "text1": "Gracias por",
+      "text2": "completar el ejercicio",
+      "text3": "Te invitamos a ver mas información"
+    },
+    "btnLearnMore": "Conocer más"
+  },
+  "pokemon": {
+    "search": "Buscar",
+    "clean": "Limpiar",
+    "placeholder": "Buscar pokemon por id o nombre",
+    "pagination":{
+      "text1":"Mostrando",
+      "text2":"a",
+      "text3":"de",
+      "text4":"pokemon"
+    }
+  },
+  "login":"La página que buscas se encuentra en desarrollo. Pero puede hacer clic en el botón de abajo para volver a la página de inicio."
+}

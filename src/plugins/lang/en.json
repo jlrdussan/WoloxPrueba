@@ -1,0 +1,58 @@
+{
+  "select": {
+    "spanish": "Spanish",
+    "english": "English"
+  },
+  "navBar": {
+    "home": "Home",
+    "benefits": "Benefits",
+    "pokemon": "Pokemon",
+    "login": "Login"
+  },
+  "home": {
+    "section1": {
+      "text1": "Welcome to your",
+      "text2": "Technical Interview",
+      "text3": "in"
+    },
+    "section3": {
+      "btn": "Follow us"
+    },
+    "section4": {
+      "text1": "We work to",
+      "text2": "turn",
+      "text3": "ideas",
+      "text4": "into ",
+      "text5": "products"
+    }
+  },
+  "benefits": {
+    "title": "Among the benefits we offer are",
+    "benefits": {
+      "1": "Flexible schedule",
+      "2": "Home Office",
+      "3": "Trainings y workshops",
+      "4": "Free snacks, fruits and drinks",
+      "5": "Remote week",
+      "6": "Work on the latest technologies"
+    },
+    "titleTank": {
+      "text1": "Thanks for ",
+      "text2": "completing the exercise",
+      "text3": "We invite you to see more information"
+    },
+    "btnLearnMore": "Learn more"
+  },
+  "pokemon": {
+    "search": "Search",
+    "clean": "Clean",
+    "placeholder": "Search pokemon by id or name",
+    "pagination":{
+      "text1":"Showing",
+      "text2":"to",
+      "text3":"of",
+      "text4":"pokemon"
+    }
+  },
+  "login":"The page you are looking for is under development. But you can click Click the button below to return to the home page."
+}

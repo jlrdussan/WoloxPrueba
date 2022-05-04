@@ -2,7 +2,7 @@
   <diV class="grid-benefits">
     <div class="item1">
       <div>
-        <h1 style="font-size: 28px; font-family: Montserrat">
+        <h1 class="title" style="font-family: Montserrat">
           {{ $t("benefits.title") }}
           <span style="color: #2aa7df">;)</span>
         </h1>
@@ -142,9 +142,12 @@ export default {
 
 @media all and (max-width: 600px) {
   .benefits {
-    grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
-    grid-auto-rows: 8rem;
+    grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr));
+    grid-auto-rows: 7rem;
     width: 100%;
+  }
+  .title-benefit {
+    font-size: 40px;
   }
 }
 </style>

@@ -1,4 +1,4 @@
-import { shallowMount, mount } from "@vue/test-utils";
+import { mount } from "@vue/test-utils";
 import Pokemon from "../../../src/views/Pokemon.vue";
 
 import { config } from "@vue/test-utils";

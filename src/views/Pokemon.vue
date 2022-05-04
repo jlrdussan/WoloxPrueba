@@ -139,9 +139,9 @@ import {
   getPokemonUrl,
 } from "../services/Api_Pokemon";
 import { ref, onMounted } from "vue";
-import CardPokemon from "../components/CardPokemon.vue";
+import CardPokemon from "../components/pokemon/CardPokemon.vue";
 import Preloader from "../components/Preloader.vue";
-import DetailPokemon from "../components/DetailPokemon.vue";
+import DetailPokemon from "../components/pokemon/DetailPokemon.vue";
 export default {
   components: { CardPokemon, Preloader, DetailPokemon },
   setup() {

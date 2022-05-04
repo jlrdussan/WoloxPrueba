@@ -35,7 +35,7 @@
           "
           src="../assets/img_woloxer.png"
         />
-        <h1 style="font-size: 40px; z-index: 20">
+        <h1 class="title-wolox">
           <strong style="color: #97cf00">350 +</strong>
           <strong style="color: #2aa7df">Woloxers</strong>
         </h1>
@@ -88,6 +88,11 @@ export default {};
 </script>
 
 <style scope>
+.title-wolox {
+  font-size: 40px;
+  z-index: 20;
+}
+
 .grid-home {
   height: 100%;
   display: grid;
@@ -171,6 +176,14 @@ export default {};
   .grid-item1 {
     grid-template-rows: auto auto;
     grid-template-columns: auto;
+  }
+
+  .title-wolox {
+    font-size: 29px;
+  }
+
+  .area2 img {
+    max-width: 60%;
   }
 
   .area1 {

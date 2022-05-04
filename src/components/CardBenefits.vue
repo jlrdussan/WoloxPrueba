@@ -36,4 +36,10 @@ export default {
   align-self: center;
   max-width: 90%;
 }
+
+@media all and (max-width: 600px) {
+  .card-header img {
+    width: 45px;
+  }
+}
 </style>
